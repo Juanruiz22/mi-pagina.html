@@ -1,0 +1,33 @@
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top:10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-weight: bold;
+}
+h1{
+  color: rgb(3, 3, 15);
+  font-size: 45px;
+}
+
+ul li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(153, 231, 231);
+
+}
+body{
+  background-image: url(energia.1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
